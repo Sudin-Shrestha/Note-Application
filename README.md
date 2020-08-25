@@ -1,2 +1,2 @@
-#DemoNoteApp
-Android Application
+#Android Mobile Application
+##Note Taking Application
